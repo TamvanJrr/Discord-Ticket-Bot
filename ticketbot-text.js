@@ -44,7 +44,7 @@ client.on('message', message => {
      * called "Support" and that will serve as our channel to create tickets in. Make sure you change it to fit your needs or
      * get rid of it.
      */
-    if(message.content.toLowerCase() === '?createticket' && message.channel.id === '625913548626722827') {
+    if(message.content.toLowerCase() === '?createticket' && message.channel.id === '662722808442388501') {
         
         /**
          * Check if the map has the user's id as a key
